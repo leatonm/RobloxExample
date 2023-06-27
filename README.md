@@ -5,7 +5,7 @@ The script retrieves the player's character and sets up input event handlers to 
 
 The script continuously checks if the character is grounded using a while loop with a small delay. This ensures that the character's grounded state is always up to date.
 
-This example demonstrates more advanced concepts like input handling, character movement, and raycasting. You can further expand on this code to create more complex gameplay mechanics, add animations, or implement other features based on your specific requirements or skillset
+This example demonstrates more advanced concepts like input handling, character movement, and raycasting. You can further expand on this code to create more complex gameplay mechanics, add animations, or implement other features based on your specific requirements.
 
 # ChatGPT Integration Into Roblox
 ![image](https://github.com/leatonm/RobloxExample/assets/41974737/4aeb0e30-568a-48cd-b707-b3cf2bff28de)
@@ -20,7 +20,6 @@ Make sure to replace "YOUR_API_KEY" with your actual ChatGPT API key, and ensure
 
 Feel free to customize the appearance of the chat bubble by modifying the BillboardGui and TextLabel properties in the createChatBubble function to match your desired visual style.
 
-Remember to handle any potential errors or edge cases and adapt the code to fit your specific game and character setup.
 
 #API Key?
 ![image](https://github.com/leatonm/RobloxExample/assets/41974737/ae7bc082-cdf0-4a44-99ca-938cda18a6ec)
