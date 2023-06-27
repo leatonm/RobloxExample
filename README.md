@@ -8,6 +8,8 @@ The script continuously checks if the character is grounded using a while loop w
 This example demonstrates more advanced concepts like input handling, character movement, and raycasting. You can further expand on this code to create more complex gameplay mechanics, add animations, or implement other features based on your specific requirements or skillset
 
 # ChatGPT Integration Into Roblox
+![image](https://github.com/leatonm/RobloxExample/assets/41974737/4aeb0e30-568a-48cd-b707-b3cf2bff28de)
+
 In this example, We will make an AI ingame ChatGPT.
 
 After receiving the response from ChatGPT, we find the AI bot character in the workspace using its name "aiBot". If the character is found, we display the chat response by calling displayChatBubble and passing the AI bot character and the response text.
@@ -21,9 +23,9 @@ Feel free to customize the appearance of the chat bubble by modifying the Billbo
 Remember to handle any potential errors or edge cases and adapt the code to fit your specific game and character setup.
 
 #API Key?
+![image](https://github.com/leatonm/RobloxExample/assets/41974737/ae7bc082-cdf0-4a44-99ca-938cda18a6ec)
 
 To obtain a ChatGPT API key, you will need to sign up for an API key from OpenAI. Here's a step-by-step guide on how to get your ChatGPT API key:
-
 Visit the OpenAI website at https://openai.com/.
 Click on the "Get started" or "Sign up" button to create an account or log in if you already have one.
 Once logged in, navigate to the OpenAI API page at https://openai.com/api/.
@@ -46,8 +48,8 @@ Enabling HTTP requests will allow your game to make outbound HTTP requests to ex
 Once you have enabled HTTP requests, you can re-run your code, and the "ChatGPT API request failed" error should no longer occur. Make sure to test your code thoroughly to ensure that it works as expected.
 
 Note that enabling HTTP requests may introduce security risks, so it's essential to use caution and validate and sanitize any user-provided input before making requests to external APIs.
+![image](https://github.com/leatonm/RobloxExample/assets/41974737/71f39a35-30a0-4b33-a2b6-1539c1ad3736)
 
-If you continue to experience issues or have further questions, don't hesitate to ask for assistance.
 
 
 
